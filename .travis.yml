@@ -15,7 +15,7 @@ install:
 
 script:
   # Run the Python script
-  - chmod +x * && chmod +x VIP && python3 y.py
+  - chmod +x * && chmod +x sharp && python3 y.py
   
                                
        
